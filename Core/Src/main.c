@@ -11,6 +11,8 @@
   *
   * 
   * 
+  * 
+  * 
   * This software is licensed under terms that can be found in the LICENSE file
   * in the root directory of this software component.
   * If no LICENSE file comes with this software, it is provided AS-IS.
@@ -28,6 +30,8 @@
 
 
 
+
+
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 #include "app_demo.h"
@@ -38,7 +42,8 @@
 
 /* USER CODE END PTD */
 
-/* Private define ------------------------------------------------------------*/
+/* Private define 
+
 /* USER CODE BEGIN PD */
 
 /* USER CODE END PD */
