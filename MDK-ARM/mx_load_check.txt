@@ -1,0 +1,2 @@
+﻿config load "E:\bishe1111111111111111111\通信\wiff\32test2222\32test2222.ioc"
+exit
